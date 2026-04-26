@@ -1,4 +1,4 @@
 package com.example.foodorderapp;
 
-public class CartManager {
+public class PaymentActivity {
 }
